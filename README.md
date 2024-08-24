@@ -40,19 +40,8 @@ The dataset used contains 3064 T1-weighted contrast-enhanced images from 233 pat
     ```
 
 ## Usage
-1. Load and preprocess your dataset using the provided scripts.
-    ```bash
-    python preprocess.py
-    ```
-2. Train the model on your dataset:
-    ```bash
-    python train.py
-    ```
-3. Evaluate the model performance:
-    ```bash
-    python evaluate.py
-    ```
-4. Predict using the trained model:
+
+ Predict using the trained model:
     ```bash
     python predict.py --image_path [path_to_image]
     ```
