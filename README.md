@@ -13,7 +13,7 @@
 - [Contact](#contact)
 
 ## Overview
-BTI is a high-accuracy (99.3%) brain tumor detection, classification, and diagnosis system using state-of-the-art deep learning methods. This project leverages powerful neural networks to analyze MRI scans and predict the presence and type of brain tumors, assisting in timely diagnosis and treatment planning.
+BTI is a high-accuracy (99.3%) brain tumor detection, classification, and diagnosis system using state-of-the-art deep learning methods. This project leverages powerful neural networks to analyze MRI scans and predict the presence and type of brain tumors, assisting in timely diagnosis & treatment planning.
 
 The dataset used contains 3064 T1-weighted contrast-enhanced images from 233 patients with three kinds of brain tumors:
 - **Meningioma**: 708 slices
